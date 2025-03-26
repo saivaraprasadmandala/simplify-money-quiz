@@ -15,14 +15,15 @@ A mobile quiz application built with React Native for the Simplify Money Interns
 
 ### 📱 Screenshots
 
-### Quiz List  
-![Quiz List Screenshot](https://github.com/user-attachments/assets/0a0f2495-f6ef-48ea-9777-70343d0a71e2)
 
-### Quiz Screen  
-![Quiz Screen Screenshot](https://github.com/user-attachments/assets/2a3169a0-dd4a-44ff-bfc8-77868ddc9ae8)
+## Quiz List  
+![Quiz List Screenshot](https://github.com/user-attachments/assets/6d4694cb-106b-423d-8ee5-afc00ef1f97b)
 
-### Results Screen  
-![Results Screen Screenshot](https://github.com/user-attachments/assets/7f325002-f158-4f10-be2d-0c991fb7ad9e)
+## Quiz Screen  
+![Quiz Screen Screenshot](https://github.com/user-attachments/assets/02cd82d8-b1c9-442e-8011-ee2741d11c70)
+
+## Results Screen  
+![Results Screen Screenshot](https://github.com/user-attachments/assets/4ad73b20-bc49-41d5-959d-ff12d13f7797)
 
 ## 🎯 Features
 
