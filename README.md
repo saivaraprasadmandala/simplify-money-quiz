@@ -8,6 +8,8 @@ A mobile quiz application built with React Native for the Simplify Money Interns
 
 **Repo Link:** [github.com/saivaraprasadmandala/simplify-money-quiz](https://github.com/saivaraprasadmandala/simplify-money-quiz)
 
+**Live Demo Link:** [Simplify Money Quiz Assessment Live Demo](https://drive.google.com/file/d/1uHkYLb5zBQi-Ix7QWb3HWxVvgtPnCe1F/view)
+
 **Deployment:** Local execution via Expo (Android/iOS) — no backend required.
 
 
